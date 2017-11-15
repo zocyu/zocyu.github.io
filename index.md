@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+﻿
 
-You can use the [editor on GitHub](https://github.com/zocyu/zocyu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<body background="image1.png">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1 style="font-family:comic-sans"> 
+<span class="grey"> Cousine </span> 
+<span class="orange">Style</span>
+<sup>®</sup> 
+</h1>
 
-### Markdown
+<style>
+.orange{color:orange}
+.grey{color:grey}
+</style>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p style="color:#e8e8ff;font-family:宋体"><small>西班牙欧锐餐具有限公司</small></p>
 
-```markdown
-Syntax highlighted code block
+<hr />
 
-# Header 1
-## Header 2
-### Header 3
+<P STYLE="FONT-SIZE:20PX">
+<B>
+ÍNDEX
+</P>
+</B>
 
-- Bulleted
-- List
+<pre>
+<p> 
+◆  <a href="./2.html">硅胶手柄系列厨房小工具</a>   
 
-1. Numbered
-2. List
+◆  石头纹手柄系列厨房小工具
 
-**Bold** and _Italic_ and `Code` text
+◆  厨房配件（夹子工具,勺,铲,打蛋器,开瓶器等）
 
-[Link](url) and ![Image](src)
-```
+◆  厨刀       
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+◆  蛋糕模        
 
-### Jekyll Themes
+◆  菜板,刀座,厨刀
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zocyu/zocyu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+</p>
+</pre>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+<P style="font-family:times;color:grey;text-align:right">
+Cousine Style S.L <br/>
+C/basilea 11 08210 Barbera del valles<br/>
+ Tel:937299754<br/>
+<a href="mailto:cousinestyle@hotmail.com" style="text-decoration:none">Contact us</a>
+</P>
+
+
+
+
+
+</body>
+</html>
